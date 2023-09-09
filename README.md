@@ -1,5 +1,9 @@
 <h1 align="center">Filtering a new server from groups of preexisting servers</h1>
 
+<p align="center">
+<img src="https://github.com/Mwajiduddin/Mwajiduddin/blob/main/images/powershell_icon.png" height="15%" width="15%" />
+</p>
+
 <h1>Overview</h1>
 
 
