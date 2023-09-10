@@ -5,7 +5,7 @@
 </p>
 
 <h1>Overview</h1>
-This script utilizes variables, arrays, if, else, elseif, switch, and foreach statements to filter the inputted server name into a category of servers based on its name. The variable `$server` 
+This script utilizes variables, arrays, if, else, elseif, switch, and foreach statements to filter the inputted server name into a category of servers based on its name. You use this script by inputting the server name using the variable `$server` and based on its name, if it contains a specific word it will be designated to one of the server category otherwise it will state that the server doesn't belong to one of them.
 You can download the script file or copy it down below.
 
 
